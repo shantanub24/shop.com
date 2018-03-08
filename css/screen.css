@@ -351,15 +351,15 @@ input[type=submit] {
   color: #fff;
   text-decoration: none;
   padding: 15px 30px;
-  background: #a288f6;
+  background: #7d59f2;
   border-radius: 3px;
-  border: 1px solid #020302;
+  border: 1px solid #a288f6;
   -webkit-appearance: none; }
 
 .button a:hover,
 .button button:hover,
 input[type=submit]:hover {
-  background: #12cf01;
+  background: #582aee;
   cursor: pointer; }
 
 .button a:active,
@@ -376,7 +376,7 @@ input[type=submit]:active {
 
 .button.alt a:hover {
   background: #fff;
-  color: #06cf42; }
+  color: #7d59f2; }
 
 textarea, input, button, select {
   font-family: inherit;
@@ -422,7 +422,7 @@ input, textarea {
   border: 1px solid #DDDDDD; }
 
 input[type=text]:focus, input[type=email]:focus, input[type=password]:focus, textarea:focus {
-  box-shadow: 0 0 5px #090711;
+  box-shadow: 0 0 5px #7d59f2;
   border: 1px solid #7d59f2; }
 
 @media (max-width: 849px) {
@@ -434,7 +434,7 @@ input[type=text]:focus, input[type=email]:focus, input[type=password]:focus, tex
 header {
   color: #fff;
   padding: 20px 0 59px 0;
-  background: linear-gradient(135deg, #022bdf 10%, #aba5ac 100%);
+  background: linear-gradient(135deg, #7d59f2 0%, #e371f6 100%);
   position: relative; }
   header p {
     margin: 0; }
@@ -573,7 +573,7 @@ footer {
             white-space: nowrap;
             color: #999; }
     footer .footer-columns .about svg path {
-      fill: #090713; }
+      fill: #7d59f2; }
     footer .footer-columns p {
       font-size: 1.1rem;
       color: #999; }
