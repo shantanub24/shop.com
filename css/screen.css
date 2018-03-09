@@ -15,7 +15,7 @@ body {
   -webkit-font-smoothing: antialiased; }
 
 a {
-  color: #7d59f2;
+  color: #6b6767;
   text-decoration: none; }
 
 a:hover {
@@ -217,7 +217,7 @@ blockquote .quote:after {
     text-align: left;
     margin-left: 40px; }
     .product-container .product-details h4 {
-      color: #7d59f2; }
+      color: #6b6767; }
   .product-container form {
     border: 1px solid #444;
     padding: 20px;
@@ -302,7 +302,7 @@ blockquote .quote:after {
 .story-points h3 {
   font-size: 1.3rem;
   margin: 0;
-  color: #7d59f2; }
+  color: #6b6767; }
 
 .map {
   height: 499px;
@@ -351,15 +351,15 @@ input[type=submit] {
   color: #fff;
   text-decoration: none;
   padding: 15px 30px;
-  background: #7d59f2;
+  background: #6b6767;
   border-radius: 3px;
-  border: 1px solid #a288f6;
+  border: 1px solid #858080;
   -webkit-appearance: none; }
 
 .button a:hover,
 .button button:hover,
 input[type=submit]:hover {
-  background: #582aee;
+  background: #514e4e;
   cursor: pointer; }
 
 .button a:active,
@@ -376,7 +376,7 @@ input[type=submit]:active {
 
 .button.alt a:hover {
   background: #fff;
-  color: #7d59f2; }
+  color: #6b6767; }
 
 textarea, input, button, select {
   font-family: inherit;
@@ -422,8 +422,8 @@ input, textarea {
   border: 1px solid #DDDDDD; }
 
 input[type=text]:focus, input[type=email]:focus, input[type=password]:focus, textarea:focus {
-  box-shadow: 0 0 5px #7d59f2;
-  border: 1px solid #7d59f2; }
+  box-shadow: 0 0 5px #6b6767;
+  border: 1px solid #6b6767; }
 
 @media (max-width: 849px) {
   .nav-open nav {
@@ -434,7 +434,7 @@ input[type=text]:focus, input[type=email]:focus, input[type=password]:focus, tex
 header {
   color: #fff;
   padding: 20px 0 59px 0;
-  background: linear-gradient(135deg, #7d59f2 0%, #e371f6 100%);
+  background: linear-gradient(135deg, #6b6767 0%, #000000 100%);
   position: relative; }
   header p {
     margin: 0; }
@@ -573,7 +573,7 @@ footer {
             white-space: nowrap;
             color: #999; }
     footer .footer-columns .about svg path {
-      fill: #7d59f2; }
+      fill: #6b6767; }
     footer .footer-columns p {
       font-size: 1.1rem;
       color: #999; }
