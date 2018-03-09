@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://turquoise-rook.cloudvent.net//sitemap.xml
+Sitemap: http://www.procryps.com/sitemap.xml
